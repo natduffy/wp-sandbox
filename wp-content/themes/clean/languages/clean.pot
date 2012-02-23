@@ -1,0 +1,634 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-11 13:45-0500\n"
+"PO-Revision-Date: 2011-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:4
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:10
+msgid "Sorry, but what you're looking for could not be found."
+msgstr ""
+
+#: archives.php:16
+msgid "Archives by Month:"
+msgstr ""
+
+#: archives.php:20
+msgid "Archives by Subject:"
+msgstr ""
+
+#: author.php:5
+msgid "Author:"
+msgstr ""
+
+#: comments.php:10
+msgid "Enter your password to view comments."
+msgstr ""
+
+#: comments.php:25
+msgid "Comment"
+msgstr ""
+
+#: comments.php:25
+msgid "Comments"
+msgstr ""
+
+#: comments.php:53
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:53
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:56
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:63
+#, php-format
+msgid "Logged in as %s"
+msgstr ""
+
+#: comments.php:63
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:63
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:68
+msgid "Name"
+msgstr ""
+
+#: comments.php:68
+#: comments.php:71
+msgid "(required)"
+msgstr ""
+
+#: comments.php:71
+msgid "Email"
+msgstr ""
+
+#: comments.php:74
+msgid "Website"
+msgstr ""
+
+#: comments.php:81
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:81
+msgid "Cancel Reply"
+msgstr ""
+
+#: functions.php:400
+msgid "Include in Home Page Slideshow"
+msgstr ""
+
+#: functions.php:401
+msgid "Display this in the home page slideshow."
+msgstr ""
+
+#: functions.php:407
+msgid "Home Slideshow Text"
+msgstr ""
+
+#: functions.php:408
+msgid "Enter a short description to be included with the slideshow image."
+msgstr ""
+
+#: functions.php:417
+msgid "Lightbox Image"
+msgstr ""
+
+#: functions.php:418
+msgid "This image will be displayed when the thumbnail for this project is clicked. Enter the full image URL."
+msgstr ""
+
+#: functions.php:424
+msgid "Lightbox Video"
+msgstr ""
+
+#: functions.php:425
+msgid "This video will be displayed when the thumbnail for this project is clicked. Enter the URL of a video from Vimeo or YouTube."
+msgstr ""
+
+#: functions.php:434
+msgid "Description"
+msgstr ""
+
+#: functions.php:435
+msgid "Enter a description about this page."
+msgstr ""
+
+#: functions.php:494
+#: functions.php:495
+msgid "Home Slideshow Options"
+msgstr ""
+
+#: functions.php:496
+msgid "Page Options"
+msgstr ""
+
+#: functions.php:497
+msgid "Lightbox Options"
+msgstr ""
+
+#: functions.php:574
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:581
+msgid "Reply"
+msgstr ""
+
+#: functions.php:581
+msgid "Log in to reply"
+msgstr ""
+
+#: links.php:4
+msgid "Links"
+msgstr ""
+
+#: options.php:50
+msgid "General"
+msgstr ""
+
+#: options.php:53
+msgid "Logo"
+msgstr ""
+
+#: options.php:54
+msgid "Upload a custom logo."
+msgstr ""
+
+#: options.php:58
+msgid "Favicon"
+msgstr ""
+
+#: options.php:59
+msgid "Upload a custom favicon."
+msgstr ""
+
+#: options.php:64
+msgid "Custom CSS"
+msgstr ""
+
+#: options.php:65
+msgid "Enter custom CSS here."
+msgstr ""
+
+#: options.php:71
+msgid "Appearance"
+msgstr ""
+
+#: options.php:74
+msgid "Menu Color"
+msgstr ""
+
+#: options.php:75
+msgid "Select a color for your menu links."
+msgstr ""
+
+#: options.php:80
+msgid "Menu Hover Color"
+msgstr ""
+
+#: options.php:81
+msgid "Select a hover color for your menu links."
+msgstr ""
+
+#: options.php:86
+msgid "Button Color"
+msgstr ""
+
+#: options.php:87
+msgid "Select a color for your buttons."
+msgstr ""
+
+#: options.php:92
+msgid "Button Hover Color"
+msgstr ""
+
+#: options.php:93
+msgid "Select a hover color for your buttons."
+msgstr ""
+
+#: options.php:98
+msgid "Link Color"
+msgstr ""
+
+#: options.php:99
+msgid "Select a color for your links."
+msgstr ""
+
+#: options.php:104
+msgid "Link Hover Color"
+msgstr ""
+
+#: options.php:105
+msgid "Select a hover color for your links."
+msgstr ""
+
+#: options.php:110
+msgid "Font for Headings"
+msgstr ""
+
+#: options.php:111
+msgid "Enter the name of the <a href=\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Font</a> you want to use for headings."
+msgstr ""
+
+#: options.php:116
+msgid "Font for Body Text"
+msgstr ""
+
+#: options.php:117
+msgid "Enter the name of the <a href=\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Font</a> you want to use for the body text."
+msgstr ""
+
+#: options.php:122
+msgid "Font for Home Message"
+msgstr ""
+
+#: options.php:123
+msgid "Enter the name of the <a href=\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Font</a> you want to use for the home message text."
+msgstr ""
+
+#: options.php:130
+msgid "Home Page"
+msgstr ""
+
+#: options.php:134
+msgid "Home Message"
+msgstr ""
+
+#: options.php:135
+msgid "Enter a short message to be displayed on the home page."
+msgstr ""
+
+#: options.php:140
+msgid "Home Category Filter"
+msgstr ""
+
+#: options.php:141
+msgid "Enter the IDs of the categories you would like to exclude or include on the home page, separated by commas. (Example: 3,6 or -3,-6)"
+msgstr ""
+
+#: options.php:147
+msgid "Posts"
+msgstr ""
+
+#: options.php:150
+msgid "Home Layout"
+msgstr ""
+
+#: options.php:151
+msgid "Select the posts layout for the home page."
+msgstr ""
+
+#: options.php:157
+msgid "Archive Layout"
+msgstr ""
+
+#: options.php:158
+msgid "Select the posts layout for archive pages."
+msgstr ""
+
+#: options.php:164
+msgid "Featured Image Size"
+msgstr ""
+
+#: options.php:165
+msgid "Select the size of the posts featured image. Only works with normal layout option."
+msgstr ""
+
+#: options.php:171
+msgid "Show Author"
+msgstr ""
+
+#: options.php:172
+msgid "Check this box to show the author."
+msgstr ""
+
+#: options.php:177
+msgid "Show Date"
+msgstr ""
+
+#: options.php:178
+msgid "Check this box to show the publish date."
+msgstr ""
+
+#: options.php:183
+msgid "Show Category"
+msgstr ""
+
+#: options.php:184
+msgid "Check this box to show the category."
+msgstr ""
+
+#: options.php:189
+msgid "Show Comment Count"
+msgstr ""
+
+#: options.php:190
+msgid "Check this box to show the comment count."
+msgstr ""
+
+#: options.php:195
+msgid "Show Featured Image on Single Posts"
+msgstr ""
+
+#: options.php:196
+msgid "Check this box to show the featured image on single post pages."
+msgstr ""
+
+#: options.php:201
+msgid "Infinite Scrolling"
+msgstr ""
+
+#: options.php:202
+msgid "Change infinite scrolling settings."
+msgstr ""
+
+#: options.php:208
+#: options.php:263
+msgid "Slideshow"
+msgstr ""
+
+#: options.php:212
+msgid "Enable Slideshow"
+msgstr ""
+
+#: options.php:213
+msgid "Check this box to enable the home page slideshow."
+msgstr ""
+
+#: options.php:218
+#: options.php:266
+msgid "Slideshow Delay"
+msgstr ""
+
+#: options.php:219
+msgid "Enter the delay in seconds between slides. Enter 0 to disable auto-playing."
+msgstr ""
+
+#: options.php:224
+msgid "Slideshow Effect"
+msgstr ""
+
+#: options.php:225
+msgid "Select the type of transition effect for the slideshow."
+msgstr ""
+
+#: options.php:231
+msgid "Deactivate Slideshow Links"
+msgstr ""
+
+#: options.php:232
+msgid "Check this box to disable the links of slideshow images."
+msgstr ""
+
+#: options.php:238
+msgid "Footer"
+msgstr ""
+
+#: options.php:241
+msgid "Left Footer Text"
+msgstr ""
+
+#: options.php:242
+msgid "This will appear on the left side of the footer."
+msgstr ""
+
+#: options.php:247
+msgid "Right Footer Text"
+msgstr ""
+
+#: options.php:248
+msgid "This will appear on the right side of the footer."
+msgstr ""
+
+#: options.php:253
+msgid "Integration"
+msgstr ""
+
+#: options.php:256
+msgid "Analytics"
+msgstr ""
+
+#: options.php:257
+msgid "Enter your custom analytics code. (e.g. Google Analytics)."
+msgstr ""
+
+#: options.php:267
+msgid "Enter the delay in seconds between slides for the slideshow shortcode. Enter 0 to disable auto-playing."
+msgstr ""
+
+#: search.php:4
+msgid "Search Results"
+msgstr ""
+
+#: search.php:27
+msgid "No Results"
+msgstr ""
+
+#: search.php:28
+msgid "Nothing matched your search."
+msgstr ""
+
+#: searchform.php:1
+msgid "Type and press enter to search."
+msgstr ""
+
+#: sidebar.php:5
+msgid "Author Info"
+msgstr ""
+
+#: single.php:33
+#: includes/post_normal.php:10
+#: includes/posts_home.php:12
+msgid "Posted "
+msgstr ""
+
+#: single.php:34
+#: includes/post_normal.php:11
+#: includes/posts_home.php:13
+msgid "by "
+msgstr ""
+
+#: single.php:35
+#: includes/post_normal.php:12
+#: includes/posts_home.php:14
+msgid "on"
+msgstr ""
+
+#: single.php:36
+#: includes/post_normal.php:13
+#: includes/posts_home.php:15
+msgid "in"
+msgstr ""
+
+#: single.php:40
+#: includes/post_normal.php:17
+#: includes/post_small.php:35
+#: includes/posts_home.php:19
+msgid "No Comments"
+msgstr ""
+
+#: single.php:40
+#: includes/post_normal.php:17
+#: includes/post_small.php:35
+#: includes/posts_home.php:19
+msgid "One Comment"
+msgstr ""
+
+#: single.php:40
+#: includes/post_normal.php:17
+#: includes/post_small.php:35
+#: includes/posts_home.php:19
+msgid "% Comments"
+msgstr ""
+
+#: admin/options-framework.php:238
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: admin/options-framework.php:269
+msgid "Default options restored."
+msgstr ""
+
+#: admin/options-framework.php:310
+msgid "Options saved."
+msgstr ""
+
+#: admin/options-framework.php:368
+msgid "Theme Options"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:128
+msgid "Upload"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:288
+msgid "Gallery"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr ""
+
+#: admin/widgets.php:15
+msgid "This is the default widget area for the sidebar. This will be displayed if the other sidebars have not been populated with widgets."
+msgstr ""
+
+#: admin/widgets.php:25
+msgid "Widget area for the sidebar on pages."
+msgstr ""
+
+#: admin/widgets.php:35
+msgid "Widget area for the home page sidebar."
+msgstr ""
+
+#: admin/widgets.php:45
+msgid "Widget area for the sidebar on posts."
+msgstr ""
+
+#: admin/widgets.php:66
+msgid "Display recent posts from any category."
+msgstr ""
+
+#: admin/widgets.php:67
+msgid "Recent Posts"
+msgstr ""
+
+#: admin/widgets.php:140
+#: admin/widgets.php:244
+#: admin/widgets.php:350
+msgid "Title:"
+msgstr ""
+
+#: admin/widgets.php:142
+msgid "Category"
+msgstr ""
+
+#: admin/widgets.php:144
+msgid "All"
+msgstr ""
+
+#: admin/widgets.php:150
+msgid "Number of posts:"
+msgstr ""
+
+#: admin/widgets.php:152
+msgid "10 max"
+msgstr ""
+
+#: admin/widgets.php:172
+msgid "Twitter"
+msgstr ""
+
+#: admin/widgets.php:249
+msgid "Username:"
+msgstr ""
+
+#: admin/widgets.php:254
+msgid "Number of tweets:"
+msgstr ""
+
+#: admin/widgets.php:258
+msgid "Follow Link label:"
+msgstr ""
+
+#: admin/widgets.php:281
+msgid "Flickr"
+msgstr ""
+
+#: admin/widgets.php:356
+msgid "Flickr ID:"
+msgstr ""
+
+#: admin/widgets.php:362
+msgid "Number of photos:"
+msgstr ""
+
+#: admin/widgets.php:364
+msgid "(15 max)"
+msgstr ""
+
+#: includes/post_small.php:24
+msgid "In"
+msgstr ""
+
+#: includes/post_small.php:32
+msgid "By "
+msgstr ""
+
+#: js/infinite_scrolling.php:17
+msgid "Nothing to load."
+msgstr ""
+
+#: js/infinite_scrolling.php:19
+#: js/infinite_scrolling.php:45
+msgid "Loading..."
+msgstr ""
