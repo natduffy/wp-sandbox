@@ -1,0 +1,10 @@
+.simpleSocialWidget a {border:none;}
+.ssw-square {display:block; float:left; margin:6px 6px 0 0; padding:0; width:32px; height:32px; background-image:url('social-media-sprite.png');}
+.ssw-square span {display:none;}
+.ssw-twitter {background-position:0px 0px;}
+.ssw-facebook {background-position:0px -32px;}
+.ssw-google {background-position:0px -64px;}
+.ssw-linkedin {background-position:0px -96px;}
+.ssw-rss {background-position:0px -128px;}
+.ssw-youtube {background-position:0px -160px;}
+.ssw-pinterest {background-position:0px -192px;}
