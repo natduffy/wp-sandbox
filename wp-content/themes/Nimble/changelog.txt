@@ -1,0 +1,18 @@
+version 1.1 ( updated 10-21-2012 )
+- Fixed portfolio images description on iPhone and iPad
+	* js/custom.js
+	* style.css
+- Removed 'Featured Slider Animation' option in ePanel
+	* includes/featured.php
+	* epanel/options_nimble.php
+- Fixed featured image size on fullwidth pages
+	* loop-page.php
+- Fixed slider with one slide issue
+	* js/custom.js
+- Fixed text rendering on Mac
+- Bumped version number
+	* style.css
+
+version 1.0
+
+- initial release
