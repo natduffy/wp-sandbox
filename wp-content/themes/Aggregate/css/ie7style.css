@@ -1,0 +1,10 @@
+a { cursor: pointer; }
+
+#top-header { z-index: 2; }
+#bottom-header, #controllers { z-index: 1; }
+
+#second-menu { z-index: 2; }
+#featured { z-index: 1; }
+
+#controllers { padding-top: 20px; }
+	#controllers ul li { margin-top: -19px !important; }

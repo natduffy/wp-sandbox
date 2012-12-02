@@ -1,0 +1,9 @@
+body, #top-header, #footer, ul#top-menu li ul { background-image: url("images/blue/header-bg.png") !important; }
+.footer-widget, p#copyright, .footer-widget a { color: #9cacb6; }
+	.footer-widget a:hover { color: #fff; }
+	
+#search-form { background-image: url("images/blue/search-bg.png"); }
+	#search-form #searchinput { color: #7a8f9a; }
+
+ul#top-menu li, ul.bottom-nav li { background-image: url("images/blue/menu-bg.png"); }
+	ul#top-menu ul li { background-image: url(images/blue/top-menu-separator.png); }
