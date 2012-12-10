@@ -1,0 +1,59 @@
+/*
+Theme Name:     Aggregate Child
+Template:       Aggregate
+Version:        0.1.0
+*/
+
+@import url("../Aggregate/style.css");
+
+.container #logo-area p#slogan {
+    color: #512121;
+    font-family: "PT Sans", helvetica, arial, sans-serif;
+    font-weight: 800;
+}
+ 
+#top-stitch {
+  display: none;
+}
+ 
+p {
+  font-size: 1.2em;
+  color:#555555;
+}
+
+#footer { background: url(images/header-bg.png); font-family: "PT Sans", helvetica, arial, sans-serif;}
+#top-header { border-bottom: 2px solid #ffffff; position: relative; background: url(images/header-bg.png); font-family: "PT Sans", helvetica, arial, sans-serif; }
+
+/*------------------------------------------------*/
+/*--------------[FEATURED SLIDER]-----------------*/
+/*------------------------------------------------*/
+
+#featured { position: relative; padding-bottom: 20px; margin-left: -1px; margin-right: -1px; }	
+
+	a#left-arrow, a#right-arrow, #featured .flex-direction-nav a.prev, #featured .flex-direction-nav a.next { position: absolute; top: 50%; width: 32px; height: 68px; text-indent:-9999px; margin-top: -34px; }
+	
+		a#left-arrow, #featured .flex-direction-nav a.prev { background:url(images/left-arrow.png) no-repeat; left: -32px; }	
+		
+		a#right-arrow, #featured .flex-direction-nav a.next { background:url(images/right-arrow.png) no-repeat; right: -32px; }
+		
+			.featured-top-shadow { background:url(images/featured-top-shadow.png) repeat-x; position: absolute; top:0px; left: 0px; width: 958px; height: 7px; }
+			
+			.featured-bottom-shadow { background:url(images/featured-bottom-shadow.png) repeat-x; position: absolute; bottom:0; left: 0; width: 958px; height: 8px; }
+			
+			.featured-description { position: absolute; width: 480px; height: 196px; top: 40px; right:54px; background:url(../Aggregate/images/featured-description.png); padding: 27px 32px 40px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; }
+			
+				.featured-description p.meta-info { font-family: Georgia, serif; font-style: italic; font-size: 12px; font-color: #ffffff; }
+				
+					.featured-description p.meta-info a { text-decoration: none; color: #ffffff; }
+					
+				h2.featured-title { font-family: 'PT Sans', Arial, sans-serif; font-weight: lighter;font-size: 30px; text-shadow: 1px 1px 1px rgba(0,0,0,0.4); margin-top: -4px; }
+				
+					h2.featured-title a { text-decoration: none; color: #ffffff; }
+					
+				.featured-description p { color: #c9c8c8; text-shadow: 1px 1px 1px rgba(0,0,0,0.4); line-height: 19px; }
+					
+				a.readmore { display: block; background: url(images/readmore.png); height: 27px; padding: 0 17px; color: #dfca81; font-size: 12px; line-height: 27px; position: absolute; bottom: 0px; right: 0px; text-shadow: none; }
+				
+				#featured a.readmore { -moz-border-radius-bottomright: 10px;-webkit-border-bottom-right-radius: 10px; border-bottom-right-radius: 10px;  }
+				
+					#featured a.readmore:hover { color: #fff; }

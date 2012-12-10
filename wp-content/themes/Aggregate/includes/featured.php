@@ -59,7 +59,7 @@
 				<div class="featured-bottom-shadow"></div>	
 				<div class="featured-description">
 					<div class="feat_desc">
-						<p class="meta-info"><?php esc_html_e('Posted','Aggregate'); ?> <?php esc_html_e('by','Aggregate'); ?> <?php the_author_posts_link(); ?> <?php esc_html_e('on','Aggregate'); ?> <?php the_time(esc_attr(get_option('aggregate_date_format'))) ?></p>
+						<p class="meta-info"><!-- <?php esc_html_e('Posted','Aggregate'); ?> <?php esc_html_e('by','Aggregate'); ?> --> <?php the_author_posts_link(); ?> <!-- <?php esc_html_e('on','Aggregate'); ?> <?php the_time(esc_attr(get_option('aggregate_date_format'))) ?> --></p>
 						<h2 class="featured-title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
 						<p><?php truncate_post(410); ?></p>
 					</div>
